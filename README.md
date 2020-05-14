@@ -1,2 +1,6 @@
 # react-ui-docs
-Generated React UI docs
+
+> Docs for React UI
+
+CONTENT OF THIS REPOSITORY (THE `docs` FOLDER) IS GENERATED FROM SOURCE IN THE `react-ui` REPOSITORY.
+DO NOT EDIT MANUALLY.
